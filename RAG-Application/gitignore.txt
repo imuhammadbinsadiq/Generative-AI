@@ -1,0 +1,5 @@
+# Ignore Chroma database folder
+chroma_db/
+
+# Optionally ignore the PDF if it’s sensitive or large
+machine_learning_book.pdf
